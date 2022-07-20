@@ -1,0 +1,8 @@
+
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÿδ°Ήύÿÿÿÿ8Ϊ‰«Υ΅0
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ΆΊυκ8ά‰«Υ΅0
+j
+java:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‰λ£θωÿÿÿÿ8ή‰«Υ΅0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(²ά°–8ί‰«Υ΅0

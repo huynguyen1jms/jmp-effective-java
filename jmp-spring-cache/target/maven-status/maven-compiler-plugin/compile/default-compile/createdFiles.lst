@@ -1,0 +1,4 @@
+com\example\springcache\service\StudentService.class
+com\example\springcache\domain\Student.class
+com\example\springcache\controller\StudentController.class
+com\example\springcache\SpringCacheApplication.class
